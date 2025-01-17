@@ -1,0 +1,10 @@
+﻿1,Train,15.30,20,Tired,4,Y,4
+2,On-bed,14.10,15,Headache,3,N,8
+2,On-bed,18.30,20,Headache,4,N,8
+3,In-bed,19.50,90,Sleepy,4,N,8
+4,Train,17.15,20,Sleepy,4,Y,3.5
+5,Train,08.00,30,Tired,4,Y,2.25
+5,Train,14.00,30,Tired,3,Y,2.25
+5,Library,16.25,15,Sleepy,3,Y,2.25
+5,In-bed,20.30,120,Tired,5,Y,2.25
+6,Train,08.10,20,Sleepy,4,N,4.16

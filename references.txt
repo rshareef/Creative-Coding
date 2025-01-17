@@ -1,0 +1,7 @@
+References:
+- Creating a HashMap: https://processing.org/reference/HashMap.html
+- Data type 'color' is actually stored as an int: https://forum.processing.org/two/discussion/14609/what-is-returned-by-this-function-colors.html
+- 'alpha' parameter: https://processing.org/tutorials/color#:~:text=Alpha%20values%20also%20range%20from%200%20to%20255%2C%20with%200%20being%20completely%20transparent%20(i.e.%2C%200%25%20opaque)%20and%20255%20completely%20opaque%20(i.e.%2C%20100%25%20opaque).
+- Random jitter for caffeine presence inspired by 'Ummmm' sketch in Creative Coding Notes '10:Data': https://moodle4.city.ac.uk/mod/page/view.php?id=821077
+- colorMode function: https://processing.org/reference/colorMode_.html
+- colour scheme inspired by 'Randomness' notes on Creative Coding Moodle (500 coloured particles sketch): https://moodle4.city.ac.uk/mod/page/view.php?id=781854
